@@ -1,4 +1,4 @@
-<h2>Jogo da forca</h2>
-<p>Projeto onde aprendi semântica de c++</p> 
+# Jogo da forca
+Projeto onde aprendi semântica de c++
 
-https://user-images.githubusercontent.com/78867248/162556767-ecf238eb-7f38-40f8-883a-a6b7d156653e.mp4
+https://user-images.githubusercontent.com/78867248/162556846-94d0c7ac-a1a9-41a7-8e02-ffb15bc9442a.mp4
